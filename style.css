@@ -1,8 +1,14 @@
-p {
-   font-size:24px;
-   color:red;
-   display:inline;
+#text {
+   margin-top:40px;
+   font-wigth:bold;
+   color:darkred;
+   text-indent:50px;
+   line-heigth:25px;
+   letter-spacing:0.2px;
+   text-transform:capitalize;
 }
+
+ 
 h1 {
   font-size:14px;
   color:blueviolet;
@@ -15,4 +21,16 @@ h2 {
 	font-size:20px;
 	color:rosybrown;
 	text-decoration:underline;
+}
+
+#G {
+  font-size:30px;
+  color:blue;
+}
+#name {
+	 font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:110px;
 }
