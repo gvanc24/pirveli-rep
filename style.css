@@ -1,0 +1,18 @@
+p {
+   font-size:24px;
+   color:red;
+   display:inline;
+}
+h1 {
+  font-size:14px;
+  color:blueviolet;
+}
+h2 {
+   font-size:50px;
+   color:orange;
+}
+#h {
+	font-size:20px;
+	color:rosybrown;
+	text-decoration:underline;
+}
